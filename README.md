@@ -1,6 +1,6 @@
 #API-LIBRARY
 
-Uma APIrestFul criada para fins educacionais, para o bootcamp sandander java backend
+Uma APIrestFul criada para fins educacionais.
 
 ##Diagrama de Classes
 
